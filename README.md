@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e evolução técnica em
 
 ### 🚀 Sobre mim
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 📚 Aluno do curso **Java COMPLETO Programação Orientada a Objetos** (Nelio Alves - Udemy).
+- 📚 Aluno do curso **Java COMPLETO Programação Orientada a Objetos + Projetos** (Nelio Alves - Udemy).
 - ☕ Focado em **Programação Orientada a Objetos (POO)**.
 - 📍 Residente em **São José dos Campos - SP**.
 
