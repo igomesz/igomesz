@@ -39,7 +39,7 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técn
 - [x] Lógica de Programação e Sintaxe Básica
 - [x] Estruturas Condicionais e Repetitivas (for, while)
 - [x] Saída e Entrada de Dados
-- [ ] **Introdução à Programação Orientada a Objetos**
+- [x]  **Introdução à Programação Orientada a Objetos**
 - [ ] Construtores, Palavra this, Sobrecarga, Encapsulamento
 - [ ] Comportamento de Memória, Arrays, Listas
 - [ ] Enumerações e Composição
