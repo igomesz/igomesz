@@ -37,20 +37,24 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técn
 ### 📈 Roadmap de Estudos (Nelio Alves - Udemy)
 
 - [x] Lógica de Programação e Sintaxe Básica
-- [x] Estruturas Condicionais e Repetitivas (for, while)
-- [x] Saída e Entrada de Dados
+- [x] Estrutura Sequenciais, Condicionais e Repetitivas
 - [x] Introdução à Programação Orientada a Objetos
 - [x] **Construtores, Palavra this, Sobrecarga, Encapsulamento**
 - [ ] Comportamento de Memória, Arrays, Listas
+- [ ] Tópicos especiais em Java: data-hora
 - [ ] Enumerações e Composição
 - [ ] Herança e Polimorfismo
 - [ ] Tratamento de Exceções
 - [ ] Trabalhando com Arquivos
 - [ ] Interfaces
 - [ ] Generics, Set, Map
-- [ ] Programação Funcional e Expressões Lambda
-- [ ] JDBC (Banco de Dados)
-- [ ] Spring Boot, JPA e Hibernate
+- [ ] Nivelamento sobre Git e Github
+- [ ] Acesso a banco de dados com JDBC
+- [ ] JAVA EE - Mapeamento objeto-relacional com JPA/Hibernate
+- [ ] Projeto Spring Boot, JPA e Hibernate
+- [ ] Projeto jogo de xadrez
+- [ ] Projeto Spring boot e banco MongoDB (web services + NoSQL)
+- [ ] Interface gráfica com JavaFX
 
 ---
 *Este perfil reflete minha jornada diária de estudos e prática de código. Sinta-se à vontade para explorar meus repositórios!*
