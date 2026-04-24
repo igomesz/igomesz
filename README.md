@@ -39,9 +39,9 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técn
 - [x] Lógica de Programação e Sintaxe Básica
 - [x] Estrutura Sequenciais, Condicionais e Repetitivas
 - [x] Introdução à Programação Orientada a Objetos
-- [x] **Construtores, Palavra this, Sobrecarga, Encapsulamento**
-- [ ] Comportamento de Memória, Arrays, Listas
-- [ ] Tópicos especiais em Java: data-hora
+- [x] Construtores, Palavra this, Sobrecarga, Encapsulamento
+- [x] Comportamento de Memória, Arrays, Listas
+- [ ] **Tópicos especiais em Java: data-hora**
 - [ ] Enumerações e Composição
 - [ ] Herança e Polimorfismo
 - [ ] Tratamento de Exceções
