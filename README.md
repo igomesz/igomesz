@@ -42,8 +42,8 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técn
 - [x] Construtores, Palavra this, Sobrecarga, Encapsulamento
 - [x] Comportamento de Memória, Arrays, Listas
 - [x] Tópicos especiais em Java: data-hora
-- [ ] **Enumerações e Composição**
-- [ ] Herança e Polimorfismo
+- [x] Enumerações e Composição
+- [ ] **Herança e Polimorfismo**
 - [ ] Tratamento de Exceções
 - [ ] Trabalhando com Arquivos
 - [ ] Interfaces
