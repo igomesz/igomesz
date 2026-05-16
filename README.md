@@ -43,8 +43,8 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técn
 - [x] Comportamento de Memória, Arrays, Listas
 - [x] Tópicos especiais em Java: data-hora
 - [x] Enumerações e Composição
-- [ ] **Herança e Polimorfismo**
-- [ ] Tratamento de Exceções
+- [x] Herança e Polimorfismo
+- [ ] **Tratamento de Exceções**
 - [ ] Trabalhando com Arquivos
 - [ ] Interfaces
 - [ ] Generics, Set, Map
