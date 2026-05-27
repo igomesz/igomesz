@@ -45,8 +45,8 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técn
 - [x] Enumerações e Composição
 - [x] Herança e Polimorfismo
 - [x] Tratamento de Exceções
-- [ ] **Trabalhando com Arquivos**
-- [ ] Interfaces
+- [x] Trabalhando com Arquivos
+- [ ] **Interfaces**
 - [ ] Generics, Set, Map
 - [ ] Nivelamento sobre Git e Github
 - [ ] Acesso a banco de dados com JDBC
