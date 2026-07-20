@@ -47,7 +47,7 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técn
 - [x] Tratamento de Exceções
 - [x] Trabalhando com Arquivos
 - [x] Interfaces
-- [ ] **Generics, Set, Map**
+- [x] Generics, Set, Map
 - [ ] Nivelamento sobre Git e Github
 - [ ] Acesso a banco de dados com JDBC
 - [ ] JAVA EE - Mapeamento objeto-relacional com JPA/Hibernate
