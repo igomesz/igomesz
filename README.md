@@ -48,8 +48,8 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técn
 - [x] Trabalhando com Arquivos
 - [x] Interfaces
 - [x] Generics, Set, Map
-- [ ] Nivelamento sobre Git e Github
-- [ ] Acesso a banco de dados com JDBC
+- [x] Nivelamento sobre Git e Github
+- [ ] **Acesso a banco de dados com JDBC**
 - [ ] JAVA EE - Mapeamento objeto-relacional com JPA/Hibernate
 - [ ] Projeto Spring Boot, JPA e Hibernate
 - [ ] Projeto jogo de xadrez
