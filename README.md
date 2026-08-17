@@ -1,31 +1,47 @@
-# 👋 Olá, eu sou o Pedro Gomes
+<!-- BANNER -->
 
-### `Estudante de ADS • Desenvolvedor em formação`
+<p align="center">
+  <img src="https://SEU-BANNER-AQUI" width="100%" />
+</p>
 
-> Aprendendo, construindo e evoluindo através do código.
+<h1 align="center">Olá, eu sou o Pedro Gomes 👋</h1>
+
+<p align="center">
+  <b>Estudante de ADS • Desenvolvedor em formação</b>
+</p>
+
+<p align="center">
+  ☕ Java &nbsp;•&nbsp; 🎓 ADS &nbsp;•&nbsp; 🤖 Java + IA
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na área de tecnologia.
 
-Atualmente, estou focado em **Java e desenvolvimento de software**, através do **Bootcamp Santander de Java + IA**, colocando em prática os conhecimentos adquiridos por meio de exercícios e projetos.
+Atualmente, meu principal foco é **Java**, estudando tanto através do curso **Java Completo, do Nelio Alves**, quanto do **Bootcamp Santander de Java + IA**.
+
+Estou buscando transformar o que aprendo em projetos práticos e construir, aos poucos, meu portfólio como desenvolvedor.
 
 ---
 
 ## 🚀 Atualmente
 
 * 🎓 **Análise e Desenvolvimento de Sistemas — 3º semestre**
-* ☕ **Bootcamp Santander — Java + IA**
-* 💻 Estudando desenvolvimento de software
-* 🧠 Desenvolvendo lógica de programação e Programação Orientada a Objetos
-* 🗄️ Aprendendo conceitos de banco de dados
-* 🔧 Praticando **Git e GitHub**
-* 📂 Construindo meu portfólio através de projetos
+* ☕ **Java Completo — Nelio Alves**
+
+  * Atualmente estudando **Map e Set**
+* 🚀 **Bootcamp Santander — Java + IA**
+* 🔧 Aprendendo e praticando **Git & GitHub**
+* 💻 Desenvolvendo projetos para colocar meus estudos em prática
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode" />
 </p>
 
 ### Principal foco
@@ -34,56 +50,83 @@ Atualmente, estou focado em **Java e desenvolvimento de software**, através do 
 ☕ Java
    ├── Lógica de programação
    ├── Programação Orientada a Objetos
-   └── Desenvolvimento de aplicações
+   ├── Collections
+   ├── List
+   ├── Set
+   └── Map
 
-🤖 IA
-   └── Conteúdos e aplicações abordados no Bootcamp Santander
-
-🗄️ Banco de Dados
-   └── Fundamentos e prática
+🚀 Java + IA
+   └── Conteúdos abordados no Bootcamp Santander
 
 🔧 Git & GitHub
-   └── Versionamento e organização de projetos
+   └── Versionamento e organização dos projetos
 ```
 
 ---
 
 ## 💻 Projetos
 
-Aqui você pode acompanhar alguns dos projetos que estou desenvolvendo durante minha jornada de aprendizado.
+Alguns dos projetos que fazem parte da minha jornada de aprendizado:
 
-| Projeto                 | Tecnologia | Status                |
-| ----------------------- | ---------- | --------------------- |
-| ☕ Projetos Java         | Java       | 🟡 Em desenvolvimento |
-| 🤖 Projetos do Bootcamp | Java + IA  | 🟡 Em desenvolvimento |
-| 🎓 Projetos acadêmicos  | Java       | 🟡 Em evolução        |
+### 📚 Biblioteca
 
-> Novos projetos serão adicionados conforme forem concluídos.
+Projeto desenvolvido para praticar conceitos de programação e organização de dados em Java.
 
----
+### 👥 Triagem de Candidatos
 
-## 📊 GitHub
+Projeto desenvolvido em Java para praticar lógica e conceitos de programação.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 💰 Folha de Pagamento
+
+Projeto desenvolvido em Java para praticar conceitos de Programação Orientada a Objetos.
+
+> Conforme novos projetos forem desenvolvidos, eles serão adicionados aqui.
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/igomesz/igomesz/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/igomesz/igomesz/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/igomesz/igomesz/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
 
-## 🎯 Sobre mim
+## 📊 GitHub
 
-Estou no início da minha carreira em tecnologia e busco transformar o conhecimento adquirido nos estudos em **projetos práticos e experiências reais**.
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=igomesz&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 
-Meu objetivo é construir uma base sólida em desenvolvimento de software e continuar evoluindo como desenvolvedor.
+<img
+ height="165"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=igomesz&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Construir uma base sólida em **desenvolvimento de software**, evoluindo meus conhecimentos em Java e transformando o aprendizado em projetos cada vez mais completos.
+
+Estou no início da minha jornada na tecnologia e quero utilizar este GitHub para registrar minha evolução, meus projetos e tudo aquilo que venho aprendendo pelo caminho.
 
 ---
 
@@ -98,6 +141,5 @@ Meu objetivo é construir uma base sólida em desenvolvimento de software e cont
 ---
 
 <p align="center">
-  <sub>☕ Code • Learn • Build</sub>
+  <i>☕ Code • Learn • Build</i>
 </p>
-
