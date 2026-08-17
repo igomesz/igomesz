@@ -1,66 +1,64 @@
-# Olá, eu sou o Pedro 👋
+# 👋 Olá, eu sou o Pedro Gomes
 
-### `Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas`
+### `Estudante de ADS • Desenvolvedor em formação`
 
-> Transformando aprendizado em projetos, uma linha de código por vez.
+> Aprendendo, construindo e evoluindo através do código.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória na área de tecnologia, com foco principalmente em **Java, desenvolvimento de software e Inteligência Artificial**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na área de tecnologia.
 
-Atualmente, estou aprofundando meus conhecimentos em programação e buscando transformar cada novo aprendizado em projetos práticos.
+Atualmente, estou focado em **Java e desenvolvimento de software**, através do **Bootcamp Santander de Java + IA**, colocando em prática os conhecimentos adquiridos por meio de exercícios e projetos.
 
 ---
 
 ## 🚀 Atualmente
 
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas — 3º semestre**
-* ☕ Estudando **Java** e desenvolvimento de aplicações
-* 🧠 Desenvolvendo minha lógica de programação e fundamentos de software
+* 🎓 **Análise e Desenvolvimento de Sistemas — 3º semestre**
+* ☕ **Bootcamp Santander — Java + IA**
+* 💻 Estudando desenvolvimento de software
+* 🧠 Desenvolvendo lógica de programação e Programação Orientada a Objetos
+* 🗄️ Aprendendo conceitos de banco de dados
+* 🔧 Praticando **Git e GitHub**
+* 📂 Construindo meu portfólio através de projetos
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Linguagens
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,vscode" />
 </p>
 
-### Desenvolvimento & Banco de Dados
+### Principal foco
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,git,github" />
-</p>
+```text
+☕ Java
+   ├── Lógica de programação
+   ├── Programação Orientada a Objetos
+   └── Desenvolvimento de aplicações
 
-### Ferramentas
+🤖 IA
+   └── Conteúdos e aplicações abordados no Bootcamp Santander
 
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,figma" />
-</p>
+🗄️ Banco de Dados
+   └── Fundamentos e prática
 
-> Minha stack ainda está em construção — novos conhecimentos entram aqui conforme eu realmente começo a utilizá-los em projetos.
+🔧 Git & GitHub
+   └── Versionamento e organização de projetos
+```
 
 ---
 
-## 📌 Em foco
+## 💻 Projetos
 
-```text
-Java
- ├── Lógica de programação
- ├── POO
- ├── APIs
- └── Desenvolvimento backend
+Aqui você pode acompanhar alguns dos projetos que estou desenvolvendo durante minha jornada de aprendizado.
 
-Inteligência Artificial
- ├── Fundamentos de IA
- ├── Integração com aplicações
- └── Uso de IA no desenvolvimento
+| Projeto                 | Tecnologia | Status                |
+| ----------------------- | ---------- | --------------------- |
+| ☕ Projetos Java         | Java       | 🟡 Em desenvolvimento |
+| 🤖 Projetos do Bootcamp | Java + IA  | 🟡 Em desenvolvimento |
+| 🎓 Projetos acadêmicos  | Java       | 🟡 Em evolução        |
 
-Fundamentos
- ├── Banco de dados
- ├── Git & GitHub
- └── Boas práticas de desenvolvimento
-```
+> Novos projetos serão adicionados conforme forem concluídos.
 
 ---
 
@@ -71,63 +69,35 @@ Fundamentos
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🧭 Minha jornada
+## 🎯 Sobre mim
 
-```text
-        🎓 ADS
-          │
-          ▼
-     ☕ Java + POO
-          │
-          ▼
-     🗄️ Banco de Dados
-          │
-          ▼
-      🌐 Backend
-          │
-          ▼
-       🤖 IA
-          │
-          ▼
-   🚀 Projetos reais
-```
+Estou no início da minha carreira em tecnologia e busco transformar o conhecimento adquirido nos estudos em **projetos práticos e experiências reais**.
 
-Meu objetivo é evoluir de projetos acadêmicos e pessoais para aplicações cada vez mais completas, colocando em prática os conhecimentos adquiridos ao longo da graduação.
-
----
-
-## 📈 O que estou buscando
-
-Quero construir uma carreira sólida em tecnologia, começando pelos fundamentos e evoluindo para atuar profissionalmente com **desenvolvimento de software**.
-
-Mais do que simplesmente aprender várias tecnologias, meu objetivo é entender **como e por que utilizá-las para resolver problemas reais**.
+Meu objetivo é construir uma base sólida em desenvolvimento de software e continuar evoluindo como desenvolvedor.
 
 ---
 
 ## 📫 Onde me encontrar
 
-<p>
+<p align="left">
   <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“O melhor código que vou escrever é o próximo.”</i>
-</p>
-
-<p align="center">
-  <sub>📍 Brasil • Estudante de ADS • Construindo meu caminho na tecnologia</sub>
+  <sub>☕ Code • Learn • Build</sub>
 </p>
 
