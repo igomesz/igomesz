@@ -1,60 +1,133 @@
-# Olá, eu sou o Pedro Gomes! 👋
+# Olá, eu sou o Pedro 👋
 
-### 🎓 Estudante de ADS | ☕ Desenvolvedor Java | 📍 São José dos Campos - SP
+### `Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas`
 
-Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técnica em engenharia de software e desenvolvimento Java.
+> Transformando aprendizado em projetos, uma linha de código por vez.
 
----
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória na área de tecnologia, com foco principalmente em **Java, desenvolvimento de software e Inteligência Artificial**.
 
-### 🚀 Sobre mim
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 📚 Aluno do curso **Java COMPLETO Programação Orientada a Objetos** (Nelio Alves - Udemy).
-- 🌎 Inglês: **Nível Intermediário**
-- 📍 Residente em **São José dos Campos - SP**.
+Atualmente, estou aprofundando meus conhecimentos em programação e buscando transformar cada novo aprendizado em projetos práticos.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🚀 Atualmente
 
-#### ● Back-end
-<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-</a>
-
-#### ● Ferramentas & IDEs
-<a href="https://www.jetbrains.com/idea/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-</a>
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas — 3º semestre**
+* ☕ Estudando **Java** e desenvolvimento de aplicações
+* 🧠 Desenvolvendo minha lógica de programação e fundamentos de software
 
 ---
 
-### 📈 Roadmap de Estudos (Nelio Alves - Udemy)
+## 🛠️ Tecnologias & Ferramentas
 
-- [x] Lógica de Programação e Sintaxe Básica
-- [x] Estrutura Sequenciais, Condicionais e Repetitivas
-- [x] Introdução à Programação Orientada a Objetos
-- [x] Construtores, Palavra this, Sobrecarga, Encapsulamento
-- [x] Comportamento de Memória, Arrays, Listas
-- [x] Tópicos especiais em Java: data-hora
-- [x] Enumerações e Composição
-- [x] Herança e Polimorfismo
-- [x] Tratamento de Exceções
-- [x] Trabalhando com Arquivos
-- [x] Interfaces
-- [x] Generics, Set, Map
-- [x] Nivelamento sobre Git e Github
-- [ ] **Acesso a banco de dados com JDBC**
-- [ ] JAVA EE - Mapeamento objeto-relacional com JPA/Hibernate
-- [ ] Projeto Spring Boot, JPA e Hibernate
-- [ ] Projeto jogo de xadrez
-- [ ] Projeto Spring boot e banco MongoDB (web services + NoSQL)
-- [ ] Interface gráfica com JavaFX
+### Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### Desenvolvimento & Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,git,github" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,figma" />
+</p>
+
+> Minha stack ainda está em construção — novos conhecimentos entram aqui conforme eu realmente começo a utilizá-los em projetos.
 
 ---
-*Este perfil reflete minha jornada diária de estudos e prática de código. Sinta-se à vontade para explorar meus repositórios!*
+
+## 📌 Em foco
+
+```text
+Java
+ ├── Lógica de programação
+ ├── POO
+ ├── APIs
+ └── Desenvolvimento backend
+
+Inteligência Artificial
+ ├── Fundamentos de IA
+ ├── Integração com aplicações
+ └── Uso de IA no desenvolvimento
+
+Fundamentos
+ ├── Banco de dados
+ ├── Git & GitHub
+ └── Boas práticas de desenvolvimento
+```
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧭 Minha jornada
+
+```text
+        🎓 ADS
+          │
+          ▼
+     ☕ Java + POO
+          │
+          ▼
+     🗄️ Banco de Dados
+          │
+          ▼
+      🌐 Backend
+          │
+          ▼
+       🤖 IA
+          │
+          ▼
+   🚀 Projetos reais
+```
+
+Meu objetivo é evoluir de projetos acadêmicos e pessoais para aplicações cada vez mais completas, colocando em prática os conhecimentos adquiridos ao longo da graduação.
+
+---
+
+## 📈 O que estou buscando
+
+Quero construir uma carreira sólida em tecnologia, começando pelos fundamentos e evoluindo para atuar profissionalmente com **desenvolvimento de software**.
+
+Mais do que simplesmente aprender várias tecnologias, meu objetivo é entender **como e por que utilizá-las para resolver problemas reais**.
+
+---
+
+## 📫 Onde me encontrar
+
+<p>
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“O melhor código que vou escrever é o próximo.”</i>
+</p>
+
+<p align="center">
+  <sub>📍 Brasil • Estudante de ADS • Construindo meu caminho na tecnologia</sub>
+</p>
+
