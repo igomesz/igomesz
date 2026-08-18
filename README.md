@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=500&color=00F2FE&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Pedro+Gomes!;Estudante+de+ADS;Desenvolvedor+em+Forma%C3%A7%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1800&pause=300&color=00F2FE&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+GomesDev!;Software+Engineering+Student;Java+Developer+in+Training" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,10 +12,10 @@ Atualmente, atuo como estagiário na **Embraer**, onde auxilio na análise e res
 
 ### Agora
 
-* ✈️ Estagiário na **Embraer**
+* ✈️ Estagiário na **Embraer** (Análise de processos, gestão de sistemas e suporte interno)
 * ☕ Estudando **Java & POO** (Prof. Nélio Alves) + **Bootcamp Santander - Java + IA**
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-* 🌐 **Inglês Intermediário***
+* 🌐 **Inglês Intermediário**
 
 ---
 
