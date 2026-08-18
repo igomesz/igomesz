@@ -12,7 +12,7 @@ Atualmente, atuo como estagiário na **Embraer**, onde auxilio na análise e res
 
 ### Agora
 
-* ✈️ Estagiário na **Embraer** (Análise de processos, gestão de sistemas e suporte interno)
+* ✈️ Estagiário na **Embraer** 
 * ☕ Estudando **Java & POO** (Prof. Nélio Alves) + **Bootcamp Santander - Java + IA**
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 * 🌐 **Inglês Intermediário**
