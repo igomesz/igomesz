@@ -29,6 +29,14 @@ Atualmente focado em desenvolvimento de software, aprofundando meus conhecimento
 
 ---
 
+### 📊 Atividades & Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igomesz&theme=react-dark&bg_color=0D1117&color=00F2FE&line=00F2FE&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
 ### 📫 Conecte-se comigo
 
 <p align="left">
