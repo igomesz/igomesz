@@ -1,26 +1,25 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F2FE&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+GomesDev!;Software+Engineering+Student;Java+Developer+in+Training" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=500&color=00F2FE&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Pedro+Gomes!;Estudante+de+ADS;Desenvolvedor+em+Forma%C3%A7%C3%A3o" alt="Typing SVG" />
   </a>
 </div>
 
+**Estudante de Análise e Desenvolvimento de Sistemas** · São José dos Campos, Brasil
+
+Desenvolvo soluções focadas em **Java** e **Programação Orientada a Objetos (POO)**, aplicando conceitos de arquitetura limpa e lógica de programação. 
+
+Atualmente, atuo como estagiário na **Embraer**, onde auxilio na análise e resolução de problemas operacionais, otimização de planilhas e relatórios, e suporte a sistemas de gestão e clientes internos. Essa experiência prática fortalece minha capacidade analítica para traduzir desafios do dia a dia em soluções de software eficientes.
+
+### Agora
+
+* ✈️ Estagiário na **Embraer**
+* ☕ Estudando **Java & POO** (Prof. Nélio Alves) + **Bootcamp Santander - Java + IA**
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+* 🌐 **Inglês Intermediário***
+
 ---
 
-### 🚀 Sobre Mim
-📍 São José dos Campos, São Paulo, Brasil  
-
-Atualmente focado em desenvolvimento de software, aprofundando meus conhecimentos em **Java**, **Lógica de Programação** e **Programação Orientada a Objetos (POO)**. Construindo soluções e evoluindo constantemente a cada código.
-
----
-
-### 🎓 Cursos & Especializações
-- ☕ **Java COMPLETO Programação Orientada a Objetos** - Prof. Nélio Alves
-- 🤖 **Bootcamp Santander 2024 - Java + IA**
-- 📚 Inglês **Intermediário**
-
----
-
-### 🛠️ Ferramentas & Tecnologias
+### Ferramentas & Tecnologias
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -30,7 +29,7 @@ Atualmente focado em desenvolvimento de software, aprofundando meus conhecimento
 
 ---
 
-### 📊 Atividades & Contribuições
+### Atividades & Contribuições
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=igomesz&theme=react-dark&bg_color=0D1117&color=00F2FE&line=00F2FE&point=ffffff&area=true&hide_border=true" width="100%" />
