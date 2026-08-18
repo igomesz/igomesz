@@ -29,10 +29,28 @@ Atualmente focado em desenvolvimento de software, aprofundando meus conhecimento
 
 ---
 
-### 📊 Gráfico de Contribuições
+### 📊 Atividades & Contribuições
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=igomesz&theme=react-dark&bg_color=0D1117&color=00F2FE&line=00F2FE&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Gráfico de Visão Geral (Activity Overview) -->
+  <img src="https://my-github-readme-stats.vercel.app/api/profile-details?username=igomesz&theme=dark" width="100%" />
+</div>
+
+<br />
+
+<!-- Animação da Cobrinha comendo os commits -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igomesz/igomesz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igomesz/igomesz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/igomesz/igomesz/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
