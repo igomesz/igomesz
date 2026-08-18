@@ -5,7 +5,13 @@
 ### 🚀 Desenvolvedor em Formação | Estudante de ADS
 📍 São José dos Campos, São Paulo, Brasil  
 
-Atualmente focado em desenvolvimento de software, aprendendo **Java**, **Lógica de Programação** e conceitos de **Orientação a Objetos**. Construindo uma base sólida para desenvolver projetos e soluções eficientes.
+Atualmente focado em desenvolvimento de software, aprofundando meus conhecimentos em **Java**, **Lógica de Programação** e **Programação Orientada a Objetos (POO)**. Construindo soluções e evoluindo constantemente a cada código.
+
+---
+
+### 🎓 Cursos & Especializações
+- ☕ **Java COMPLETO Programação Orientada a Objetos** - Prof. Nélio Alves
+- 🤖 **Bootcamp Santander 2024 - Java + IA**
 
 ---
 
@@ -18,8 +24,33 @@ Atualmente focado em desenvolvimento de software, aprendendo **Java**, **Lógica
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igomesz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igomesz&layout=compact&theme=dark" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igomesz&theme=react-dark&bg_color=0D1117&color=00F2FE&line=00F2FE&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igomesz/igomesz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igomesz/igomesz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/igomesz/igomesz/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrogomes-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomespedro544@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomespedro544@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igomessz_)
