@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F2FE&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+GomesDev!;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Estudante+de+ADS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F2FE&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Pedro+Gomes!;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Estudante+de+ADS" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,32 +26,6 @@ Atualmente focado em desenvolvimento de software, aprofundando meus conhecimento
     <img src="https://skillicons.dev/icons?i=java,git,idea" alt="Ferramentas e Tecnologias" />
   </a>
 </p>
-
----
-
-### 📊 Atividades & Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igomesz&theme=react-dark&bg_color=0D1117&color=00F2FE&line=00F2FE&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Gráfico de Visão Geral (Activity Overview) -->
-  <img src="https://my-github-readme-stats.vercel.app/api/profile-details?username=igomesz&theme=dark" width="100%" />
-</div>
-
-<br />
-
-<!-- Animação da Cobrinha comendo os commits -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igomesz/igomesz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igomesz/igomesz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/igomesz/igomesz/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
