@@ -16,6 +16,7 @@ Atualmente focado em desenvolvimento de software, aprofundando meus conhecimento
 ### 🎓 Cursos & Especializações
 - ☕ **Java COMPLETO Programação Orientada a Objetos** - Prof. Nélio Alves
 - 🤖 **Bootcamp Santander 2024 - Java + IA**
+- 📚 Inglês **Intermediário**
 
 ---
 
