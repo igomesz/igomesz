@@ -12,9 +12,9 @@ Atualmente, atuo como estagiário na **Embraer**, onde auxilio na análise e res
 
 ### Agora
 
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 * ✈️ Estagiário na **Embraer** 
 * ☕ Estudando **Java & POO** (Prof. Nélio Alves)
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 * 🌐 **Inglês Intermediário**
 
 ---
