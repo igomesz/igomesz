@@ -32,5 +32,5 @@ Atualmente, atuo como estagiário na **Embraer**, onde auxilio na análise e res
 ### Atividades & Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igomesz&theme=react-dark&bg_color=0D1117&color=00F2FE&line=00F2FE&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.k33g.workers.dev/graph?username=igomesz&theme=react-dark&bg_color=0D1117&color=00F2FE&line=00F2FE&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
