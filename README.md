@@ -4,7 +4,7 @@
   </a>
 </div>
 
-**Estudante de Análise e Desenvolvimento de Sistemas** · São José dos Campos, Brasil
+**Estudante de Análise e Desenvolvimento de Sistemas** · São José dos Campos, Brasil.
 
 Desenvolvo soluções focadas em **Java** e **Programação Orientada a Objetos (POO)**, aplicando conceitos de arquitetura limpa e lógica de programação. 
 
