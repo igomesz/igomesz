@@ -6,7 +6,7 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas** · São José dos Campos, Brasil
 
-Desenvolvo soluções focadas em **Java** e **Programação Orientada a Objetos (POO)**, aplicando conceitos de arquitetura limpa e lógica de programação. 
+Desenvolvo soluções focadas em **Java** e **Programação Orientada a Objetos (POO)**, aplicando conceitos de arquitetura limpa e lógica de programação
 
 Atualmente, atuo como estagiário na **Embraer**, onde auxilio na análise e resolução de problemas operacionais, otimização de planilhas e relatórios, e suporte a sistemas de gestão e clientes internos. Essa experiência prática fortalece minha capacidade analítica para traduzir desafios do dia a dia em soluções de software eficientes.
 
